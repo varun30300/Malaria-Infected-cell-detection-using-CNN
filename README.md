@@ -1,6 +1,7 @@
 # Malaria-Infected-cell-detection-using-CNN
 This CNN model will take a cell image as an input and then it will classify as one of the two classes :- Parasatic or Uninfected
 
+Dataset link :- https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria/downloads/cell-images-for-detecting-malaria.zip/1
 
 Steps to use this model :-
   1 -> Download the source code and place it in a file \n
