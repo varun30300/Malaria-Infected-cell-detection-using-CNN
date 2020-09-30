@@ -15,3 +15,4 @@ Steps to use this model :-
  
   
  
+[![HitCount](http://hits.dwyl.com/varun30300/Malaria-Infected-cell-detection-using-CNN.svg)](http://hits.dwyl.com/varun30300/Malaria-Infected-cell-detection-using-CNN)
